@@ -1,7 +1,7 @@
 #!/usr/bin/python3
-""" 
-thsi file if for answering the job interview 
-quetsion 
+"""
+thsi file if for answering the job interview
+quetsion
 """
 
 
