@@ -3,7 +3,6 @@
 this python file is for solving primegame problem
 """
 
-
 def primes(n):
     """Return list of prime numbers between 1 and n inclusive
        Args:
